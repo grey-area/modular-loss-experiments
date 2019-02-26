@@ -4,7 +4,7 @@ The Modular Loss function interpolates between training an ensemble of neural ne
 independently and training a single neural network with a branching architecture.
 It can be used to study the effect of joint training of neural networks.
 
-The code here reproduces the results of [arxiv.org/abs/1902.04422](http://arxiv.org/abs/1902.04422). The three scripts:
+The code here reproduces the results of [arxiv.org/abs/1902.04422](http://arxiv.org/abs/1902.04422), as part of the EPSRC LAMBDA project (EP/N035127/1). The three scripts:
 
 - ``run_fashion_mnist_mlp_experiment.sh``
 - ``run_cifar_10_conv_experiment.sh``
